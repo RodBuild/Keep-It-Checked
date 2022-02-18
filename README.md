@@ -8,7 +8,7 @@ While deciding on what type of app to create, I came accros the idea of creating
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=j1qmoDDmJ4A)
 
 # Development Environment
 
