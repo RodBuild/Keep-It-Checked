@@ -6,8 +6,6 @@ This project has been really challenging, between using the right dependecies, u
 
 While deciding on what type of app to create, I came accros the idea of creating an app that works as a shopping list. The reason for this is because while doing my own shopping, I tend to forget the items I need. I ended up including the shopping list and one extra window for interacting with the user. I will later work on the app and use the thrid window to connect to an API.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
 [Software Demo Video](https://www.youtube.com/watch?v=j1qmoDDmJ4A)
 
 # Development Environment
